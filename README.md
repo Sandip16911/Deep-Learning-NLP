@@ -110,7 +110,7 @@ Deep Learning (general + NLP) links:
 
     https://medium.com/@memoakten/selection-of-resources-to-learn-artificial-intelligence-machine-learning-statistical-inference-23bc56ba655#.s5kjy7bgo : LIST of Deep Learning Talk
 
-Deep Learning for Information Retrieval Links:
+# Deep Learning for Information Retrieval Links:
 
 There are two very good survey papers on using Deep Learning for Information Retrieval. There reference section in these articles is an exhaustive list (I think) for IR using DL.
 
@@ -120,7 +120,7 @@ There are two very good survey papers on using Deep Learning for Information Ret
 
     http://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017 : WSDM'17 Tut. on Deep Learning for IR
 
-Word Embeddings related articles
+# Word Embeddings related articles
 
     https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
 
@@ -150,7 +150,7 @@ Word Embeddings related articles
 
     http://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/ : How backprop works in LSTM's (the so-called BPTT (back prop. through time)
 
-RNN related stuff
+# RNN related stuff
 
     http://www.neutronest.moe/2015-11-15-LSTM-survey.html
 
@@ -170,7 +170,7 @@ RNN related stuff
 
     https://github.com/guillaume-chevalier/seq2seq-signal-prediction : Learn and practice seq2seq in TensorFlow on time series data for signal prediction
 
-Solving NLP tasks using Deep Learning
+# Solving NLP tasks using Deep Learning
 
     http://eric-yuan.me/ner_1/ : Named Entity Recognition using CNN
 
@@ -194,7 +194,7 @@ Solving NLP tasks using Deep Learning
 
     http://research.microsoft.com/pubs/214617/www2014_cdssm_p07.pdf : Extension of paper mentioned in [4] which used Convolution and max-pooling operations to learn low-dimensional semanti c representation of text
 
-Optimization for Neural Networks
+# Optimization for Neural Networks
 
     http://cs231n.github.io/neural-networks-3/#update
 
@@ -240,7 +240,7 @@ Datasets
 
     https://www.yelp.com/dataset_challenge : Yelp dataset (review + images)
 
-Practical tools for Deep Learning
+# Practical tools for Deep Learning
 
     Deep Learning libraries
 
