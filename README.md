@@ -55,12 +55,12 @@ Please open a GitHub issue if you find any mistakes or think there is a particul
 
 Deep-Learning-for-NLP-Resources
 
-List of resources to get started with Deep Learning for NLP. (Updated incrementally)
+# List of resources to get started with Deep Learning for NLP. (Updated incrementally)
 Deep Learning (general + NLP) links:
 
-    https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH : This lecture series has very good introduction to Neural Network and Deep Learning.
+  *  https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH : This lecture series has very good introduction to Neural Network and Deep Learning.
 
-    https://www.coursera.org/course/neuralnets : This lecture series is from Geof Hinton. The concepts explained are bit abstract, concepts are hard to understand in first go. Generally people recommend these lectures as starting point but I am skeptical about it. I would suggest going through 1st one before this.
+  * https://www.coursera.org/course/neuralnets : This lecture series is from Geof Hinton. The concepts explained are bit abstract, concepts are hard to understand in first go. Generally people recommend these lectures as starting point but I am skeptical about it. I would suggest going through 1st one before this.
 
     https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu : Deep Learning Lectures from Oxford University
 
